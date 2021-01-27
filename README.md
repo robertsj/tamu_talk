@@ -1,2 +1,2 @@
 # tamu_talk
-Slides, etc., for talk as TAMU
+Slides, etc., for talk at TAMU NE
